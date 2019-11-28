@@ -32,6 +32,10 @@ It will now copy all the project files to it and link them. It will AUTO RENAME 
 ```html
 Dont forget to change local.properties by changing sdk.dir = to your sdk path.
 ```
+
+```html
+react-native run-android or react-native run-ios
+```
 <b>Now build and run on platforms.Congratulations! :bowtie: </b>
 
 
@@ -67,7 +71,7 @@ Dont forget to change local.properties by changing sdk.dir = to your sdk path.
                                                                   <li>Logo point your logo image in this componenent then use it anywhere where you want to show logo</>
                                                                 </ul>
 <br />
-<b><i>And Many, Many & Many more features :- x-x</i></b>
+<b><i>Logical features:-</i></b>
 <br />
 <ul>
 
