@@ -3,10 +3,24 @@
 
 React native drugged up -> <b>react-native-cocained :dizzy_face: </b>
 
+<b>NOTE - This repo is only for mac and linux based operating systems, on windows this project wont compile and build</b>
+ 
 <b>Supercharge your react native developement with this RN Framework including all the core elements required to setup an app project for ios and android including many many & many features & boilerplates prebuilt.</b>
 ```html
 git clone https://github.com/stonedCoder-x-x/react-native-cocained.git
 ```
+
+```html
+After cloning rename cloned folder to 'React Project structure' and put it in your desktop -> Create a Projects Folder in Your home directory, then cd into cloned folder execute MakeUpStructure.py with python3 MakeUpStructure.py. It will ask for your computer username enter it,  then drop your about to supercharge project folder into terminal (It should be completely empty)
+```
+
+```html
+It will now copy all the project files to it and link them. It will ask you to name your project leave empty and press enter if you want to define folder name as project name.
+```
+
+<b>Now build and run on platforms.Congratulations! :bowtie: </b>
+
+
 <b>* FEATURES :- :sparkles: </b>
 <br />
 <ul>
