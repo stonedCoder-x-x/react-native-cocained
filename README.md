@@ -8,7 +8,7 @@ React native drugged up -> <b>react-native-cocained :dizzy_face: </b>
 <b>Supercharge your react native developement with this RN Framework including all the core elements required to setup an app project for ios and android including many many & many features & boilerplates prebuilt.</b>
 
 |------------------------------------|<br/>
-<b>CONFIGURING, BUILDING & RUNNING:- </B>
+<b>CLONING, BUILDING & RUNNING:- </B>
 ```html
 git clone https://github.com/stonedCoder-x-x/react-native-cocained.git
 ```
