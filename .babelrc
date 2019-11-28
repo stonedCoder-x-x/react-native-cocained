@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./src"],
+      "alias": {
+        "helpers": "./src/Hesslpers",
+        "assets":"./assets"
+      }
+    }],
+
+    ["babel-plugin-inline-import", {
+      "extensions": [
+        ".svg"
+      ]
+    }]
+  ]
+}

@@ -1,0 +1,6 @@
+framework module RNI18n {
+  umbrella header "RNI18n-umbrella.h"
+
+  export *
+  module * { export * }
+}

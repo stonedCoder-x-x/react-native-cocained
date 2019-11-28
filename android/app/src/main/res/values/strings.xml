@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dummy New</string>
+     <string name="facebook_app_id">767976760301446</string>
+<string name="fb_login_protocol_scheme">fb767976760301446</string>
+</resources>

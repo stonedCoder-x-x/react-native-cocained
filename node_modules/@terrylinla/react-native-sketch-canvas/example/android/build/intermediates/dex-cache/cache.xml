@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_dfb67574b4d22a9cb7392fb6d0b71591915ec383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_a1e95c2aa9fda51f550c2175993a84b64c21922c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_645ab956713d92ecb959707c8c7a1565c02ac06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_095dbe16a5e1e13f46bc92205ebe8652dcbf0a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_a677d110cc00ab85fe7d1373772b92c1572d0cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_45b7df5c7bfa2c43e207d43ece9a2c97f4a03eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3892ef11308d3d6a5621facf1ae9e24d78cb97b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_9ff472a925dbcee6e8002e96af942380e7a8c867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_34d9fa881c2160200b0c6a32b5b30d38728783e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/example/@terrylinla@react-native-sketch-canvas/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f81656a9ffc4adccef07b1253d02d6b5bde886b">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/example-@terrylinla@react-native-sketch-canvas-unspecified_f7ab6119285f32f3a9e9bff308d58c071297a687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_a9337b7cf1203c59f2ff5fef4bb6d7af1505268a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/d529251d24c0a367a28eea28f0eac2269d12f772/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e64d3bd4020c2600a42923c3b493bbb2e81f1211">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.github.react-native-community-cameraview-d529251d24c0a367a28eea28f0eac2269d12f772_3c65ce7f897593307483cb878f5af806850bc253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.1_5b39a21e5db48e05199fa68a8d91bf7d9804a5e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3892ef11308d3d6a5621facf1ae9e24d78cb97b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_095dbe16a5e1e13f46bc92205ebe8652dcbf0a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_21665bdd07a4c5c7b507c8e99bc32ae4e39c6780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/12.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc95ad466da44800955b79689023485ea39924a3">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-12.0.1_d05af4056b206e970e8514d0dbd5ae08c48c4acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.1_641887aa216b480fd771dd886c7cb7ea65499e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.0_2cb6458bc95e39b9ebf43e264b39b796bee46ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/12.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-12.0.1_917cf3736e25eac216d2ba1d64c0c78d11a16c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.1_3652cbd7850b797962070c95ba3af6e57abfa5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6f9bd0ab14ea25461b683bb221c9ee3efcf55347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_8ebb08fef00474d90ae8e6d20825cc7e17ec0fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_a599a2e3872b16b6a90cf1547e227eaf6b428fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_ae13e76591e763fa8d24b0f87a4afe0e12ab08fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/12.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fddd828aa2365a453562d62b07da4a2d94a24ad">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-12.0.1_a4809e4b5e78217d2a213f29f9d7ed5de13642e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/exifinterface/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-exifinterface-27.1.0_170f24e8266e4c1b4fd2f6d1e282df74f36e3db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5d736fc7c2fd439dbf45677ed806edf11bc0482d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_75cfc9f918ca2e41a557e8e80ac4a458900e319e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_007eae694dad85340ff0f916a78d51f36626ba56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_a9337b7cf1203c59f2ff5fef4bb6d7af1505268a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_34d9fa881c2160200b0c6a32b5b30d38728783e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6f9bd0ab14ea25461b683bb221c9ee3efcf55347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ac6e1851c9b095a0c7bd8e1fdcee6442c189356f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_bbec6a91b1f76c92dae2a1f352cc58a776948627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_45b7df5c7bfa2c43e207d43ece9a2c97f4a03eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5d736fc7c2fd439dbf45677ed806edf11bc0482d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_28478f8641bad14f99f2e448c8cca3179f3ea8a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/example/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36bf1a03f7ded80a7d61992cff92180ae4fcae72">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/example-react-native-camera-unspecified_159ecc60b4c5d07fbee71927574df1cfadd66c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_007eae694dad85340ff0f916a78d51f36626ba56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/example/@terrylinla@react-native-sketch-canvas/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de48ece395777df27d2f17f78680b008c15d64ac">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/example-@terrylinla@react-native-sketch-canvas-unspecified_f7ab6119285f32f3a9e9bff308d58c071297a687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_a599a2e3872b16b6a90cf1547e227eaf6b428fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_a677d110cc00ab85fe7d1373772b92c1572d0cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_94def29768b0b8d5a624b972fff3f16ce2bf0635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_72d1043f61b334b8379167d0427bcf36aec7f3d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/12.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-12.0.1_ef9deb0fc019027aa96f256c291663289f54d5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_14724babef5a881a56f9c726d1bdfc3521f26d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_645ab956713d92ecb959707c8c7a1565c02ac06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_dfb67574b4d22a9cb7392fb6d0b71591915ec383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_5678e2ede61c1dff2f24b9d0684d3f84724d99c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_94def29768b0b8d5a624b972fff3f16ce2bf0635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_14724babef5a881a56f9c726d1bdfc3521f26d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_82d38b389fceea9a7deee8d76a55101905554d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_fb210b8a8019fa4ca1f9826c6c9490f6be965ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ac6e1851c9b095a0c7bd8e1fdcee6442c189356f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_21665bdd07a4c5c7b507c8e99bc32ae4e39c6780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_75cfc9f918ca2e41a557e8e80ac4a458900e319e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_696d49b3d66c54b5a4bf0dfced56fc5df489fa26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-12.0.1_e8f621bd84e5236add4e2745fc9893207431f4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/terry/Documents/ReactNative/react-native-sketch-canvas/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_5028ddff3cefd344f82ba4dd0a573b4b62ca0c83.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+framework module RNSketchCanvas {
+  umbrella header "RNSketchCanvas-umbrella.h"
+
+  export *
+  module * { export * }
+}
