@@ -39,7 +39,7 @@ react-native run-android or react-native run-ios
 <b>Now build and run on platforms.Congratulations! :bowtie: </b>
 
 
-<b>* FEATURES :- :sparkles: </b>
+<b>* UI FEATURES :- :sparkles: </b>
 <br />
 <ul>
  <li>Navigation - react-native-navigation</li>
