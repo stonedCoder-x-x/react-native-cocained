@@ -26,7 +26,7 @@ It will ask for your computer username enter it,  then drop your about to superc
 ```
 
 ```html
-It will now copy all the project files to it and link them. It will ask you to name your project leave empty if you want to define folder name as project name.
+It will now copy all the project files to it and link them. It will AUTO RENAME YOUR PROJECT & WILL ask you to name your project leave empty if you want to define folder name as project name.
 ```
 
 ```html
