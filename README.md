@@ -17,7 +17,9 @@ After cloning rename cloned folder to 'React Project structure' and put it in yo
 ```html
 It will now copy all the project files to it and link them. It will ask you to name your project leave empty and press enter if you want to define folder name as project name.
 ```
-
+```html
+Dont forget to change local.properties by changing sdk.dir = to your sdk path.
+```
 <b>Now build and run on platforms.Congratulations! :bowtie: </b>
 
 
