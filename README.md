@@ -91,9 +91,11 @@ react-native run-android or react-native run-ios
 <b>I think i left something which i cant remember .. well this is like 1+ yrs of work.. & i am sure you haven't read all the things above... ->  explore on your own to avail the superpowers :bow: :metal: :muscle: </b>
 <br />
 
-Components usages coming soon till then you can open up this components flesh and gain some info about the usage.
+Components usage how to's coming soon till then you can start to explore the component, pretty self explanatory to any experienced dev.
 
 <b>START FROM THE APP.JS -> APPROOT.JS TO BEGIN </b>
+
+Thank you for using!
 
 
 
