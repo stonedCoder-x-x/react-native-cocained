@@ -1,9 +1,7 @@
 # react-native-cocained O.O
 <b>This is your "not another" react native booster.</b>
 
-React native drugged up -> <b>react-native-cocained :dizzy_face: </b>
-
-<b>NOTE - This repo is only for mac and linux based operating systems, on windows this project wont compile and build</b>
+<b>NOTE - This repo is only for mac and linux based operating systems, on windows this project wont compile</b>
  
 <b>Supercharge your react native developement with this RN Framework including all the core elements required to setup an app project for ios and android including many many & many features & boilerplates prebuilt.</b>
 
@@ -14,19 +12,19 @@ git clone https://github.com/stonedCoder-x-x/react-native-cocained.git
 ```
 
 ```html
-After cloning rename cloned folder to 'React Project structure' and put it in your desktop
+After cloning, rename cloned folder to 'React Project structure' and put it on desktop
 ```
 
 ```html
-Create a Projects Folder in Your home directory, then cd into cloned folder execute MakeUpStructure.py with python3 MakeUpStructure.py.
+Create a Projects Folder in Your home directory, then cd into cloned folder execute MakeUpStructure.py with "python3 MakeUpStructure.py"
 ```
 
 ```html
-It will ask for your computer username enter it,  then drop your about to supercharge project folder into terminal (It should be completely empty)
+It will ask for your computer username enter it,  then drop your project folder into terminal (Should be completly empty)
 ```
 
 ```html
-It will now copy all the project files to it and link them. It will AUTO RENAME YOUR PROJECT & WILL ask you to name your project leave empty if you want to define folder name as project name.
+It will now copy all the project files to it and link them. It will AUTO RENAME YOUR PROJECT & WILL ask you to name your project leave empty if you want to set folder name as project name.
 ```
 
 ```html
