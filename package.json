@@ -14,7 +14,7 @@
     "@terrylinla/react-native-sketch-canvas": "^0.8.0",
     "axios": "^0.19.0",
     "axios-cancel": "^0.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.9.0",
     "react-moment": "^0.9.2",
     "react-native": "^0.60.0",
